@@ -5,7 +5,7 @@ The working dataset is Human Activity Recognition Using Smartphones
 The files are:
 
   Codebook.md describes the variables, the data, and the vectors created during the process of cleaning up the data
-  Getting and cleaning data.R is an R file that contains the five required steps:
+ run_analysis.R is an R file that contains the five required steps:
   
       Merges the training and the test sets to create one data set.
 
